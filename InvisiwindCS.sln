@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvisiwindCS", "InvisiwindCS\InvisiwindCS.csproj", "{6359F400-E675-468F-A86D-D0DD974EA918}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dllmain.cpp", "dllmain.cpp\dllmain.cpp.vcxproj", "{918FCC96-1A86-4F10-9098-D10D5A42C41F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6359F400-E675-468F-A86D-D0DD974EA918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6359F400-E675-468F-A86D-D0DD974EA918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6359F400-E675-468F-A86D-D0DD974EA918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6359F400-E675-468F-A86D-D0DD974EA918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918FCC96-1A86-4F10-9098-D10D5A42C41F}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{918FCC96-1A86-4F10-9098-D10D5A42C41F}.Debug|Any CPU.Build.0 = Debug|x64
+		{918FCC96-1A86-4F10-9098-D10D5A42C41F}.Release|Any CPU.ActiveCfg = Release|x64
+		{918FCC96-1A86-4F10-9098-D10D5A42C41F}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7908AB3-51F0-4DCD-BD92-E0CF5F393E0B}
+	EndGlobalSection
+EndGlobal
